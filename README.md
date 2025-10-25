@@ -43,7 +43,12 @@ by going to Simulation ⇒ Start
 14.	Analyze and record your inference.
 
 ## Simulation
+<img width="1503" height="644" alt="Screenshot 2025-10-25 104433" src="https://github.com/user-attachments/assets/46ec1beb-865e-4cc3-b7d0-f22fbdee21f1" />
+
 
 ## Output
+<img width="1808" height="830" alt="Screenshot 2025-10-25 104454" src="https://github.com/user-attachments/assets/076e5e23-cb59-4be3-81e6-1404e3e13f45" />
+
 
 ## Result
+The Result is obtained.
